@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{444:function(t,n,e){"use strict";e.r(n);var s=e(7),r=Object(s.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("center",[t("b",[t("u",[this._v("多读书多看报，少吃零食多睡觉")])]),t("center")],1)],1)}),[],!1,null,null,null);n.default=r.exports}}]);
